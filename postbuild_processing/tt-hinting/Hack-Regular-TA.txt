@@ -19,7 +19,3 @@ percent touch 40,41,42,43        y -0.25  @14
 # U+002B plus glyph ID 764
 plus touch 4,5,10,11          y 0.5    @12
 plus touch 4,5                y 1.0    @13
-
-# U+0030 zero glyph ID 548
-zero touch 35,36,45,46,47,56  y -0.5   @8
-zero touch 35,36,56           y -1.0   @12,13,14
