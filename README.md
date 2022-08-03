@@ -19,7 +19,7 @@ Release zip files provide two sets of ttf files:
 
 You can also find the ttf files in [build/ttf](build/ttf).
 
-## Notes
+## Build
 
 Built on Debian/sid by following the instructions for the [alt-hack glyphs](https://github.com/source-foundry/alt-hack). The following additional steps were needed.
 
